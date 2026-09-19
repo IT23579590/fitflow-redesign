@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+*.tsbuildinfo
+
+# React Native
+.expo/
+*.log
+
+# Environment
+.env
+.env.local
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# AI / ML artifacts
+*.pb
+*.tflite
+*.pt
+*.onnx
+*.h5
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
